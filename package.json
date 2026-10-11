@@ -1,0 +1,10 @@
+{
+  "name": "fat2fit-gym-studio",
+  "private": true,
+  "version": "1.1.0",
+  "type": "module",
+  "description": "FAT2FIT Gym Studio static website with Netlify Functions and Supabase admin-only member records",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.0"
+  }
+}
